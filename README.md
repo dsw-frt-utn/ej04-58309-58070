@@ -1,2 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/39DJV9ho)
+# DESARROLLO DE SOFTWARE
+## Ejercicio 4
+## Integrantes:
 
+- 58070, Azubel Cristian Gabriel, cristian.Azubel@alu.frt.utn.edu.ar
+- 58309, Sosa Ariana Valentina, ariana.Sosa@alu.frt.utn.edu.ar
+- 
